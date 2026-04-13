@@ -1,0 +1,6 @@
+
+Sequential model...
+
+Simulation...
+Computing in folder /home/y/IDE/VS_Code/By_Topic/BlueMath/BlueMath-course-egypt/climate_services/hindcast/GreenSurge_Tonga/TONGA_CASES/GF_T_0_D_6
+mpirun -np 1 dimr "dimr_config.xml"
