@@ -1,5 +1,7 @@
 ## Green's function
 
-Generally speaking, a Green's function is an integral kernel that can be used to solve differential equations from a large number of families including simpler examples such as ordinary differential equations with initial or boundary value conditions, as well as more difficult examples such as inhomogeneous partial differential equations (PDE) with boundary conditions. Important for a number of reasons, Green's functions allow for visual interpretations of the actions associated to a source of force or to a charge concentrated at a point, thus making them particularly useful in areas of applied mathematics. In particular, Green's function methods are widely used in, e.g., physics, and engineering.
+Generally speaking, a Green's function is an integral kernel that can be used to solve differential equations from a large number of families including simpler examples such as ordinary differential equations with initial or boundary value conditions, as well as more difficult examples such as inhomogeneous partial differential equations (PDE) with boundary conditions. 
+
+Important for a number of reasons, Green's functions allow for visual interpretations of the actions associated to a source of force or to a charge concentrated at a point, thus making them particularly useful in areas of applied mathematics. In particular, Green's function methods are widely used in, e.g., physics, and engineering.
 
 https://mathworld.wolfram.com/GreensFunction.html
