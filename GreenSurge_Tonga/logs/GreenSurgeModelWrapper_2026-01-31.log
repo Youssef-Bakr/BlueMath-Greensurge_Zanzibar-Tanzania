@@ -1,0 +1,1563 @@
+2026-01-31 14:55:40,393 - GreenSurgeModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2026-01-31 14:55:40,394 - GreenSurgeModelWrapper - WARNING - Parameter direction is not in the default_parameters
+2026-01-31 14:55:40,395 - GreenSurgeModelWrapper - WARNING - Parameter tesela is not in the default_parameters
+2026-01-31 14:55:40,396 - GreenSurgeModelWrapper - INFO - Templates name is 'all', so all templates in templates will be used.
+2026-01-31 14:55:40,396 - GreenSurgeModelWrapper - INFO - Templates names: ['GreenSurge_GFDcase.mdu', 'GreenSurge_GFDcase_wind_ASCII.ext', 'GreenSurge_GFDcase_wind_netCDF.ext', 'dimr_config.xml', 'launchDelft3d.sh', 'mesh_Tonga_net.nc']
+2026-01-31 14:55:40,485 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:40,729 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:40,753 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:40,768 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:40,778 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:40,793 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:40,816 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:40,855 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:40,880 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:40,895 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:40,909 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:40,924 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:40,937 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:40,956 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:40,969 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:40,983 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:40,998 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:41,013 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:41,028 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:41,042 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:41,062 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:41,075 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:41,090 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:41,105 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:41,120 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:41,135 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:41,147 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:41,161 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:41,176 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:41,190 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:41,202 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:41,215 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:41,229 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:41,243 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:41,257 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:41,271 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:41,285 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:41,299 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:41,313 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:41,327 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:41,341 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:41,355 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:41,370 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:41,384 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:41,396 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:41,410 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:41,424 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:41,439 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:41,453 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:41,468 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:41,489 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:41,526 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:41,565 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:41,589 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:41,607 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:41,626 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:41,653 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:41,679 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:41,703 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:41,849 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:41,906 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:41,987 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:42,017 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:42,067 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:42,111 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:42,152 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:42,271 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:42,291 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:42,314 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:42,367 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:42,388 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:42,400 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:42,409 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:42,419 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:42,436 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:42,450 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:42,465 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:42,479 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:42,492 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:42,505 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:42,524 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:42,536 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:42,548 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:42,559 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:42,570 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:42,581 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:42,594 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:42,607 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:42,619 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:42,631 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:42,711 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:42,734 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:42,759 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:42,796 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:42,822 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:42,842 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:42,864 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:42,886 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:42,903 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:42,917 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:42,935 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:42,949 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:42,962 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:42,977 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:42,995 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:43,009 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:43,020 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:43,033 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:43,045 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:43,059 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:43,079 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:43,095 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:43,110 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:43,130 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:43,147 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:43,159 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:43,178 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:43,189 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:43,201 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:43,213 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:43,224 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:55:43,235 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:55:43,246 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:55:43,257 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:55:43,268 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:55:43,281 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:55:43,296 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:55:43,310 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:55:43,320 - GreenSurgeModelWrapper - INFO - 128 cases created in one_by_one mode and saved in TONGA_CASES
+2026-01-31 14:55:43,320 - GreenSurgeModelWrapper - INFO - SBATCH example file generated in TONGA_CASES
+2026-01-31 14:55:43,362 - GreenSurgeModelWrapper - INFO - Using ThreadPoolExecutor for parallel execution
+2026-01-31 14:55:43,368 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:43,370 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:43,564 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:43,565 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:43,565 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:43,570 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:43,572 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:43,574 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:43,598 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:43,603 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:43,607 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:43,614 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:43,618 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:43,620 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:43,635 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:43,644 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:43,647 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:43,672 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:43,674 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:43,676 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:43,864 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:43,864 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:43,866 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:43,893 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:43,939 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,047 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,048 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,054 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,059 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,102 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,104 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,106 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,138 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,139 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,143 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,149 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,150 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,155 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,213 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,216 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,221 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,245 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,249 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,251 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,282 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,302 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,304 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,306 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,315 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,322 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,419 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,426 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,428 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,458 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,460 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,468 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,523 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,525 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,530 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,564 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,572 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,580 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,620 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,622 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,624 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,682 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,683 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,688 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,714 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,717 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,720 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,798 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,799 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,804 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,901 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,941 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:44,942 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,946 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:44,949 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:44,954 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,003 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,004 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,007 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,078 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,083 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,084 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,142 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,146 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,152 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,168 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,171 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,174 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,221 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,222 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,228 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,256 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,263 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,278 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,314 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,330 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,332 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,335 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,341 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,349 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,389 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,389 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,390 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,395 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,396 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,399 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,425 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,427 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,436 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,464 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,465 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,469 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,500 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,503 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,507 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,513 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,516 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,520 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,546 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,547 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,550 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,575 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,578 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,580 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,580 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,583 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,585 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,609 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,611 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,612 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,612 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,617 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,620 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,655 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,656 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,664 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,665 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,665 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,668 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,710 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,713 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,715 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,721 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,723 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,724 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,771 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,772 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,773 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,779 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,782 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,786 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,828 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,833 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,835 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,836 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,844 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,847 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,889 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,892 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,894 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,898 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,900 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,909 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,941 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,948 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,955 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,968 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,971 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,977 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:45,993 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:45,996 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:45,997 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:46,058 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:46,059 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:46,096 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:46,112 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:46,139 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:46,141 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:46,205 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:46,216 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:46,238 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:46,256 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:46,268 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:46,364 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:46,371 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:46,372 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:46,401 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:46,418 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:46,430 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:46,451 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:46,483 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:46,513 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:46,532 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:46,605 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:46,610 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:46,627 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:46,704 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:46,706 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:46,739 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:46,748 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:46,766 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:46,771 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:46,792 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:46,832 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:46,838 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:46,844 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:46,845 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:46,898 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:46,950 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:46,966 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:46,972 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,011 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,031 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,048 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,107 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,128 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,170 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,188 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,245 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,251 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,336 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,341 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,363 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,391 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,405 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,427 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,485 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,487 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,488 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,501 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,519 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,521 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,554 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,556 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,573 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,587 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,600 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,609 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,618 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,629 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,647 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,656 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,673 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,674 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,714 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,720 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,726 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,755 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,757 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,763 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,813 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,825 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,832 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,834 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,847 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,856 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,869 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,897 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,898 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:47,947 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:47,947 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:47,997 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,027 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,030 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,034 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,037 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,043 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,045 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,082 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,086 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,096 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,101 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,108 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,110 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,156 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,162 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,163 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,165 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,170 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,172 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,205 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,206 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,207 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,215 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,216 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,217 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,246 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,248 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,248 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,249 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,251 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,255 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,284 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,285 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,286 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,314 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,315 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,316 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,350 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,352 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,353 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,364 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,366 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,367 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,378 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,379 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,380 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,388 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,390 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,391 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,403 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,471 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,473 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,486 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,494 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,498 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,523 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,526 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,531 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,560 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,564 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,568 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,586 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,587 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,591 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,617 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,619 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,622 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,742 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,748 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,752 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,754 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,762 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,768 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,795 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,796 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,801 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,818 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,820 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,823 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,868 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,871 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,874 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,881 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,884 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,901 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,935 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,937 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,944 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:48,965 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:48,969 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:48,971 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:49,012 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:49,016 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:49,022 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:49,042 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:49,043 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:49,048 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:49,131 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:49,134 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:49,136 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:49,141 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:49,147 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:49,157 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:49,226 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:49,229 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:49,233 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:49,266 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:49,269 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:49,272 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:49,308 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:49,310 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:49,313 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:49,356 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:49,357 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:49,360 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:55:49,374 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:49,376 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:49,436 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:55:49,441 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:55:49,481 - GreenSurgeModelWrapper - INFO - All cases executed.
+2026-01-31 14:57:10,394 - GreenSurgeModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2026-01-31 14:57:10,394 - GreenSurgeModelWrapper - WARNING - Parameter direction is not in the default_parameters
+2026-01-31 14:57:10,401 - GreenSurgeModelWrapper - WARNING - Parameter tesela is not in the default_parameters
+2026-01-31 14:57:10,407 - GreenSurgeModelWrapper - INFO - Templates name is 'all', so all templates in templates will be used.
+2026-01-31 14:57:10,408 - GreenSurgeModelWrapper - INFO - Templates names: ['GreenSurge_GFDcase.mdu', 'GreenSurge_GFDcase_wind_ASCII.ext', 'GreenSurge_GFDcase_wind_netCDF.ext', 'dimr_config.xml', 'launchDelft3d.sh', 'mesh_Tonga_net.nc']
+2026-01-31 14:57:10,636 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:10,741 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:10,807 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:10,835 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:10,852 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:10,867 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:10,879 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:10,997 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:11,010 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:11,027 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:11,045 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:11,207 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:11,219 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:11,335 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:11,349 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:11,363 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:11,461 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:11,474 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:11,569 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:11,873 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:11,889 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:11,901 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:12,011 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:12,025 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:12,112 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:12,133 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:12,250 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:12,262 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:12,274 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:12,367 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:12,378 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:12,469 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:12,478 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:12,561 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:12,574 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:12,676 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:12,694 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:12,745 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:12,845 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:12,861 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:12,981 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:12,992 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:13,091 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:13,107 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:13,174 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:13,187 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:13,285 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:13,300 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:13,362 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:13,375 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:13,388 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:13,441 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:13,455 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:13,508 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:13,524 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:13,578 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:13,696 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:13,725 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:13,771 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:13,795 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:13,850 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:13,873 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:13,965 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:13,975 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:14,076 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:14,088 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:14,160 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:14,174 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:14,295 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:14,347 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:14,371 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:14,394 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:14,419 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:14,497 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:14,518 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:14,588 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:14,602 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:14,691 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:14,749 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:14,763 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:14,848 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:14,857 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:14,869 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:14,957 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:14,970 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:15,049 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:15,058 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:15,175 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:15,188 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:15,204 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:15,292 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:15,303 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:15,395 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:15,410 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:15,507 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:15,517 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:15,632 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:15,657 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:15,741 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:15,753 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:15,813 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:15,827 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:15,936 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:15,946 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:16,021 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:16,033 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:16,130 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:16,145 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:16,270 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:16,287 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:16,438 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:16,457 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:16,475 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:16,564 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:16,576 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:16,738 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:16,764 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:16,776 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:16,791 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:16,918 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:16,942 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:57:16,960 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:57:16,978 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:57:17,119 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:57:17,137 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:57:17,247 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:57:17,256 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:57:17,266 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:57:17,341 - GreenSurgeModelWrapper - INFO - 128 cases created in one_by_one mode and saved in TONGA_CASES
+2026-01-31 14:57:17,342 - GreenSurgeModelWrapper - INFO - SBATCH example file generated in TONGA_CASES
+2026-01-31 14:57:17,375 - GreenSurgeModelWrapper - INFO - Using ThreadPoolExecutor for parallel execution
+2026-01-31 14:57:17,375 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,376 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,419 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,421 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,426 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,432 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,437 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,444 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,477 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,485 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,485 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,488 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,493 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,500 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,532 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,534 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,535 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,536 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,538 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,545 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,578 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,580 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,583 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,592 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,594 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,596 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,632 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,636 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,639 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,639 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,649 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,651 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,712 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,716 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,718 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,724 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,729 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,732 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,820 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,828 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,829 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,838 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,843 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,849 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,927 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,931 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,940 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,943 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,947 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,949 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:17,972 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:17,973 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:17,975 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,002 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,006 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,006 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,011 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,014 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,018 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,088 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,099 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,108 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,128 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,136 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,142 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,167 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,172 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,186 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,189 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,197 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,202 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,272 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,274 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,285 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,298 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,306 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,312 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,374 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,385 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,393 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,400 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,410 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,427 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,497 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,498 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,499 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,499 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,525 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,537 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,581 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,582 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,608 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,610 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,620 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,632 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,688 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,717 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,718 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,747 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,778 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,790 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,838 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,845 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,847 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,867 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,888 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:18,894 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:18,940 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,940 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:18,953 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,001 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,027 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,033 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,112 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,119 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,120 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,130 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,131 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,148 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,197 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,198 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,226 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,241 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,250 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,265 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,305 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,307 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,309 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,325 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,328 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,330 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,341 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,343 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,345 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,365 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,369 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,370 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,375 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,377 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,379 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,403 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,406 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,407 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,408 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,410 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,412 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,439 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,440 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,443 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,445 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,446 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,448 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,475 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,477 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,479 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,493 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,495 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,498 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,516 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,518 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,522 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,526 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,530 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,531 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,557 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,561 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,563 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,570 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,572 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,574 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,602 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,604 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,607 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,626 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,628 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,633 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,676 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,684 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,694 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,705 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,706 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,710 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,764 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,768 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,771 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,791 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,795 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,797 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,833 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,835 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,839 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,874 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,882 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,885 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,915 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,919 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,924 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,954 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,956 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,959 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:19,988 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:19,991 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:19,992 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,002 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,003 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,004 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,020 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,021 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,024 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,057 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,061 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,064 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,076 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,078 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,084 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,114 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,120 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,121 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,128 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,130 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,132 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,164 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,168 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,168 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,170 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,174 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,176 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,213 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,213 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,214 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,216 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,218 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,224 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,246 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,247 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,251 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,258 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,261 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,264 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,286 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,289 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,294 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,294 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,296 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,298 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,334 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,335 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,337 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,344 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,345 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,347 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,388 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,391 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,396 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,396 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,398 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,402 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,439 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,441 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,442 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,443 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,445 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,446 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,501 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,506 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,511 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,511 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,514 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,515 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,550 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,552 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,555 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,555 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,558 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,564 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,611 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,612 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,614 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,620 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,621 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,624 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,759 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,768 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,771 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,773 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,775 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,783 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,854 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,855 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,862 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,864 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,871 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,874 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,917 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,921 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,925 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,945 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,950 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,954 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,981 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:20,985 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:20,987 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:20,999 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,001 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,003 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,046 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,048 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,049 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,064 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,067 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,069 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,098 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,099 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,103 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,111 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,112 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,114 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,142 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,147 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,147 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,149 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,150 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,154 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,184 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,187 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,188 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,196 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,198 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,201 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,224 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,232 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,233 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,234 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,240 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,242 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,271 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,273 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,276 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,276 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,280 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,283 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,312 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,313 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,314 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,316 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,317 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,322 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,359 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,362 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,365 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,372 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,374 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,375 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,402 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,405 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,409 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,409 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,412 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,414 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,447 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,449 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,450 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,451 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,453 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,455 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,484 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,490 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,496 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,496 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,500 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,503 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,548 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,550 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,551 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,562 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,564 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,571 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,604 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,607 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,611 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:57:21,632 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,634 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,704 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:57:21,707 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:57:21,713 - GreenSurgeModelWrapper - INFO - All cases executed.
+2026-01-31 14:59:29,318 - GreenSurgeModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2026-01-31 14:59:29,318 - GreenSurgeModelWrapper - WARNING - Parameter direction is not in the default_parameters
+2026-01-31 14:59:29,319 - GreenSurgeModelWrapper - WARNING - Parameter tesela is not in the default_parameters
+2026-01-31 14:59:29,321 - GreenSurgeModelWrapper - INFO - Templates name is 'all', so all templates in templates will be used.
+2026-01-31 14:59:29,325 - GreenSurgeModelWrapper - INFO - Templates names: ['GreenSurge_GFDcase.mdu', 'GreenSurge_GFDcase_wind_ASCII.ext', 'GreenSurge_GFDcase_wind_netCDF.ext', 'dimr_config.xml', 'launchDelft3d.sh', 'mesh_Tonga_net.nc']
+2026-01-31 14:59:29,488 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:29,514 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:29,524 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:29,534 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:29,547 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:29,684 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:29,754 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:29,770 - GreenSurgeModelWrapper - INFO - Creating Tecelda 0 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:29,793 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:29,878 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:29,895 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:29,910 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:29,925 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:30,074 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:30,087 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:30,100 - GreenSurgeModelWrapper - INFO - Creating Tecelda 1 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:30,110 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:30,121 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:30,276 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:30,288 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:30,301 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:30,314 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:30,326 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:30,336 - GreenSurgeModelWrapper - INFO - Creating Tecelda 2 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:30,549 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:30,579 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:30,653 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:30,700 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:30,721 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:30,742 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:30,764 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:30,784 - GreenSurgeModelWrapper - INFO - Creating Tecelda 3 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:30,806 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:30,932 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:30,945 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:31,031 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:31,044 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:31,057 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:31,137 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:31,150 - GreenSurgeModelWrapper - INFO - Creating Tecelda 4 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:31,299 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:31,312 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:31,322 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:31,437 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:31,448 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:31,533 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:31,543 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:31,614 - GreenSurgeModelWrapper - INFO - Creating Tecelda 5 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:31,627 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:31,732 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:31,773 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:31,796 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:31,868 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:31,880 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:31,989 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:32,000 - GreenSurgeModelWrapper - INFO - Creating Tecelda 6 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:32,011 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:32,109 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:32,120 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:32,215 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:32,226 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:32,304 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:32,313 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:32,410 - GreenSurgeModelWrapper - INFO - Creating Tecelda 7 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:32,422 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:32,588 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:32,608 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:32,620 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:32,748 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:32,774 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:32,795 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:32,818 - GreenSurgeModelWrapper - INFO - Creating Tecelda 8 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:32,898 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:32,915 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:32,990 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:33,005 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:33,103 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:33,114 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:33,247 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:33,261 - GreenSurgeModelWrapper - INFO - Creating Tecelda 9 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:33,275 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:33,393 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:33,405 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:33,508 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:33,523 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:33,613 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:33,633 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:33,775 - GreenSurgeModelWrapper - INFO - Creating Tecelda 10 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:33,786 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:33,870 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:33,881 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:33,975 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:33,986 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:34,126 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:34,139 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:34,152 - GreenSurgeModelWrapper - INFO - Creating Tecelda 11 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:34,217 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:34,230 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:34,369 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:34,380 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:34,453 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:34,462 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:34,522 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:34,539 - GreenSurgeModelWrapper - INFO - Creating Tecelda 12 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:34,628 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:34,654 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:34,776 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:34,795 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:34,886 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:34,901 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:34,914 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:35,055 - GreenSurgeModelWrapper - INFO - Creating Tecelda 13 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:35,075 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:35,173 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:35,247 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:35,330 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:35,391 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:35,420 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:35,434 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:35,523 - GreenSurgeModelWrapper - INFO - Creating Tecelda 14 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:35,532 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 0 with u = -2.4492935982947065e-15 and v = -40.0
+2026-01-31 14:59:35,633 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 45 with u = -28.284271247461902 and v = -28.2842712474619
+2026-01-31 14:59:35,702 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 90 with u = -40.0 and v = -0.0
+2026-01-31 14:59:35,713 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 135 with u = -28.284271247461895 and v = 28.28427124746191
+2026-01-31 14:59:35,831 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 180 with u = 7.347880794884118e-15 and v = 40.0
+2026-01-31 14:59:35,841 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 225 with u = 28.28427124746191 and v = 28.2842712474619
+2026-01-31 14:59:35,852 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 270 with u = 40.0 and v = -4.898587196589413e-15
+2026-01-31 14:59:35,868 - GreenSurgeModelWrapper - INFO - Creating Tecelda 15 direction 315 with u = 28.2842712474619 and v = -28.284271247461902
+2026-01-31 14:59:35,990 - GreenSurgeModelWrapper - INFO - 128 cases created in one_by_one mode and saved in TONGA_CASES
+2026-01-31 14:59:35,990 - GreenSurgeModelWrapper - INFO - SBATCH example file generated in TONGA_CASES
+2026-01-31 14:59:36,013 - GreenSurgeModelWrapper - INFO - Using ThreadPoolExecutor for parallel execution
+2026-01-31 14:59:36,014 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,014 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,058 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,061 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,065 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,078 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,080 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,083 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,110 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,113 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,116 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,117 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,119 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,121 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,170 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,172 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,180 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,203 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,208 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,210 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_0_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,251 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,253 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,256 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,260 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,264 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,269 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,294 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,295 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,298 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,326 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,331 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,333 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,354 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,360 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,361 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,374 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,379 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,383 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,396 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,397 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,398 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,415 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,417 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,419 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_1_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,431 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,433 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,437 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,453 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,456 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,459 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,464 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,466 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,468 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,492 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,493 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,498 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,503 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,505 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,509 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,532 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,539 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,543 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,546 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,551 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,552 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,580 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,583 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,587 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,589 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_2_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,593 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,595 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,621 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,624 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,625 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,626 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,628 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,630 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,707 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,711 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,717 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,742 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,745 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,747 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,752 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,757 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,760 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,788 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,789 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,792 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,828 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,830 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,832 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_3_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,886 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,891 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,893 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,897 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,902 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,905 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,959 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,964 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,966 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:36,970 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:36,976 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:36,983 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,006 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,015 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,023 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,024 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,027 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,031 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,074 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,078 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,079 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,082 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,089 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,091 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_4_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,143 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,151 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,153 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,156 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,158 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,162 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,209 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,211 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,215 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,216 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,221 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,226 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,265 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,274 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,276 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,280 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,281 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,288 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,315 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,316 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,322 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,329 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,332 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,336 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_5_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,354 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,355 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,359 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,370 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,375 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,380 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,392 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,393 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,395 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,422 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,423 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,425 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,438 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,440 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,445 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,470 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,472 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,476 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,489 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,493 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,498 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,515 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,519 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,522 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_6_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,541 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,545 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,549 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,563 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,565 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,567 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,591 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,593 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,596 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,605 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,609 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,614 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,708 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,729 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,733 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,737 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,739 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,741 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,781 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,785 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,788 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,807 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,809 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,814 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_7_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,829 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,849 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,863 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,866 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,872 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,874 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,928 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,932 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,933 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,948 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,958 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:37,962 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:37,996 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:37,998 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,010 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,037 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,038 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,042 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,053 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,056 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,058 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,086 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,094 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,096 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_8_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,103 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,106 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,109 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,180 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,192 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,192 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,229 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,236 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,263 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,315 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,341 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,355 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,393 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,395 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,409 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,473 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,475 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,484 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,509 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,556 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,575 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,579 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,587 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,589 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_9_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,614 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,616 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,629 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,644 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,670 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,693 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,712 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,747 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,750 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,910 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,910 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:38,925 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,926 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:38,940 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:38,954 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:39,000 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:39,014 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:39,029 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:39,029 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:39,036 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:39,061 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:39,076 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:39,104 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:39,109 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:39,124 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:39,126 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_10_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:39,173 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:39,173 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:39,184 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:39,206 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:39,229 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:39,238 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:39,240 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:39,274 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:39,301 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:39,301 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:39,384 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:39,414 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:39,436 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:39,490 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:39,588 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:39,589 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:39,610 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:39,687 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:39,687 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:39,725 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:39,771 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:39,780 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:39,810 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_11_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:39,812 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:39,822 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:39,889 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:39,906 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:39,912 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:39,929 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:39,950 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:39,972 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:40,019 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:40,020 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:40,052 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:40,058 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:40,098 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:40,113 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:40,179 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:40,186 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:40,213 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:40,246 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:40,282 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:40,298 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:40,338 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:40,338 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:40,359 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:40,396 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:40,461 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_12_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:40,473 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:40,528 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:40,539 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:40,540 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:40,571 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:40,573 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:40,575 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:40,661 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:40,663 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:40,674 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:40,676 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:40,692 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:40,698 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:40,762 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:40,771 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:40,772 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:40,837 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:40,851 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:40,853 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:40,920 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:40,920 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:40,930 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:40,938 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:40,968 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_13_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,002 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,008 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,040 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,068 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,084 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,101 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,126 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,126 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,138 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,155 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,195 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,196 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,198 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,199 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,202 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,203 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,239 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,242 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,245 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,257 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,259 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,261 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_14_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,290 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,292 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,294 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_0 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,295 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,304 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,306 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_1 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,332 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,336 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,340 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_2 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,341 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,343 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,347 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_3 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,377 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,378 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,381 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_4 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,385 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,391 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,395 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_5 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,424 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,427 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,427 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,429 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,431 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_6 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,434 - GreenSurgeModelWrapper - INFO - Running case in TONGA_CASES/GF_T_15_D_7 with launcher=sh launchDelft3d.sh.
+2026-01-31 14:59:41,470 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,472 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,475 - GreenSurgeModelWrapper - ERROR - Error running command: sh launchDelft3d.sh
+2026-01-31 14:59:41,477 - GreenSurgeModelWrapper - ERROR - Error: Command 'sh launchDelft3d.sh' returned non-zero exit status 127.
+2026-01-31 14:59:41,481 - GreenSurgeModelWrapper - INFO - All cases executed.
